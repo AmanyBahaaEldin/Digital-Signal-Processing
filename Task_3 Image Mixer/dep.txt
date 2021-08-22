@@ -1,0 +1,4 @@
+The only library I needed to install is:
+opencv
+and the used command for installing it is:
+pip install opencv-python
