@@ -6,7 +6,7 @@
 Starter Template for Magnitude Phase Mixer Task
 
 The result for running testTask file using -->python testTask.py:
-![picture](testTaskresult.png)
+![Alt Text](testTaskresult.PNG)
 
 
 
